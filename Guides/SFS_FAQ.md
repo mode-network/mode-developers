@@ -37,7 +37,7 @@ When you register your contract, the SFS mints an NFT as a claim to the earned f
 9. **Who can withdraw earned fees from the SFS?**
     - Withdrawal of earned fees is restricted to the holder of the SFS NFT linked to the smart contract. This can be either an Externally Owned Account (EOA) or a smart contract, provided they possess the NFT at the time of withdrawal.
 10. **What happens if the withdrawal amount exceeds the earned fees?**
-- If the requested withdrawal amount exceeds the available earned fees, the system automatically adjusts the withdrawal to the maximum available amount. This ensures that withdrawals are always within the bounds of the actual fees accumulated by the contract.
+    - If the requested withdrawal amount exceeds the available earned fees, the system automatically adjusts the withdrawal to the maximum available amount. This ensures that withdrawals are always within the bounds of the actual fees accumulated by the contract.
 
 
 ## Found an issue?
