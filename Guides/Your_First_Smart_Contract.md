@@ -144,6 +144,6 @@ Feel free to create an [issue](https://github.com/mode-network/mode-developers/i
 
 ## Reach out for help
 
-You can discuss ideas, ask questions, and meet other members from the Hashnode community in our [Discord](https://discord.gg/modenetworkofficial).
+You can discuss ideas, ask questions, and meet other members from the Mode community in our [Discord](https://discord.gg/modenetworkofficial).
 
 If you like, you can also DM us on [X](https://x.com/modenetwork)!
