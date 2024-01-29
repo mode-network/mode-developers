@@ -130,3 +130,20 @@ Now, MetaMask should pop up and ask you to confirm the transaction with super lo
 ![Contract deployment](https://cdn.hashnode.com/res/hashnode/image/upload/v1706551970198/jLsnnEktZ.png "Contract deployment")
 
 <strong>Congrats, you just deployed your first Smart Contract to the Mode Network.</strong>
+
+
+## Found an issue?
+
+If you have found an issue or bug, please create an [issue](https:/https://github.com/mode-network/mode-developers).
+
+If it's a quick fix, such as a misspelled word or a broken link, feel free to skip creating an issue. You can create a [pull request](https://github.com/mode-network/mode-developers/pulls) directly.
+
+## Have feedback for us?
+
+Feel free to create an [issue](https://github.com/mode-network/mode-developers/issues) with the **feedback** label. Our team will take a look and get back to you as soon as we can!
+
+## Reach out for help
+
+You can discuss ideas, ask questions, and meet other members from the Hashnode community in our [Discord](https://discord.gg/modenetworkofficial).
+
+If you like, you can also DM us on [X](https://x.com/modenetwork)!

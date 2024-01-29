@@ -38,3 +38,20 @@ When you register your contract, the SFS mints an NFT as a claim to the earned f
     - Withdrawal of earned fees is restricted to the holder of the SFS NFT linked to the smart contract. This can be either an Externally Owned Account (EOA) or a smart contract, provided they possess the NFT at the time of withdrawal.
 10. **What happens if the withdrawal amount exceeds the earned fees?**
 - If the requested withdrawal amount exceeds the available earned fees, the system automatically adjusts the withdrawal to the maximum available amount. This ensures that withdrawals are always within the bounds of the actual fees accumulated by the contract.
+
+
+## Found an issue?
+
+If you have found an issue or bug, please create an [issue](https:/https://github.com/mode-network/mode-developers).
+
+If it's a quick fix, such as a misspelled word or a broken link, feel free to skip creating an issue. You can create a [pull request](https://github.com/mode-network/mode-developers/pulls) directly.
+
+## Have feedback for us?
+
+Feel free to create an [issue](https://github.com/mode-network/mode-developers/issues) with the **feedback** label. Our team will take a look and get back to you as soon as we can!
+
+## Reach out for help
+
+You can discuss ideas, ask questions, and meet other members from the Hashnode community in our [Discord](https://discord.gg/modenetworkofficial).
+
+If you like, you can also DM us on [X](https://x.com/modenetwork)!
