@@ -26,7 +26,6 @@ Deploy your first smart contract on Mode in less than 10 minutes. First of all, 
   <table>
     <tr>
       <th colspan="2">Mode Mainnet Info</th>
-      <th></th>
     </tr>
     <tr>
       <td >Name</td>
@@ -61,7 +60,6 @@ Deploy your first smart contract on Mode in less than 10 minutes. First of all, 
   <table>
     <tr>
       <th colspan="2">Mode Testnet Info</th>
-      <th></th>
     </tr>
     <tr>
       <td >Name</td>
