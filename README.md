@@ -1,5 +1,6 @@
 # Mode Developers
 
+![Mode Developers](https://cdn.hashnode.com/res/hashnode/image/upload/v1706553245099/GYD6fKeG6.jpg "Mode Developers")
 
 <p align="center">
 <a href="https://mode.network/">
