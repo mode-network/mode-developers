@@ -3,8 +3,8 @@
 
 <p align="center">
 <a href="https://mode.network/">
-    <img src="https://img.shields.io/badge/MADE%20BY%20Mode-000000.svg?style=for-the-badge&logo=``&labelColor=000">
-  </a>
+    <img src="https://img.shields.io/badge/MADE%20BY%20Mode-000000.svg?style=for-the-badge&logo">
+</a>
 <a href="https://discord.gg/modenetworkofficial">
     <img alt="" src="https://img.shields.io/badge/Join%20the%20community-black.svg?style=for-the-badge&logo=discord&labelColor=000000&logoWidth=20">
   </a>
