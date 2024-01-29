@@ -1,5 +1,7 @@
 # Introducing Mode's SFS (Sequencer Fee Sharing)
 
+![SFS FAQ](https://cdn.hashnode.com/res/hashnode/image/upload/v1706553701918/cfjbQ-kKP.jpg "SFS FAQ")
+
 When building a layer 2 within the OP stack, block production is primarily managed by a single party, called the sequencer, which helps the network by providing the following services:
 
 * Providing transaction confirmations and state updates

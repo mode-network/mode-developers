@@ -1,6 +1,8 @@
 
 # Deploy your First Smart Contract on Mode
 
+![Mode Smart Contract](https://cdn.hashnode.com/res/hashnode/image/upload/v1706553766780/vwGp1rOt0.jpg "Mode Smart Contract")
+
 Deploy your first smart contract on Mode in less than 10 minutes. 
 
 First of all, you will need to add [Mode network to your preferred wallet](https://docs.mode.network/mode-developer-mainnet/using-mode-mainnet) in order to be able to see tokens and deploy smart contracts to Mode. 
