@@ -93,23 +93,24 @@ For simplicity, we will be using [Remix](https://docs.mode.network/build-on-mode
 
 Here is sample code that comes as default on Remix, you can paste this in any `.sol` file:
 
-    // SPDX-License-Identifier: GPL-3.0
+```solidity
+// SPDX-License-Identifier: GPL-3.0
 
-        pragma solidity >=0.8.2 <0.9.0;
+pragma solidity >=0.8.2 <0.9.0;
 
-        contract Storage {
+contract Storage {
 
-        uint256 number;
-        
-        function store(uint256 num) public {
-            number = num;
-        }
+  uint256 number;
 
-        function retrieve() public view returns (uint256){
-            return number;
-        }
-    }
-    
+  function store(uint256 num) public {
+    number = num;
+  }
+
+  function retrieve() public view returns (uint256) {
+    return number;
+  }
+}
+```
 
 > Make sure to open the advanced configurations and set the EVM version to London. This is to avoid an issue with the PUSH0 opcode. You can read more on the issue with all the Optimism chains [here](https://community.optimism.io/docs/developers/build/differences/#opcode-differences).
 
